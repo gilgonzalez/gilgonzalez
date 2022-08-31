@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gilgonzalez
-- 👀 I’m interested in Java, JavaScript and React
-- 🌱 I’m currently learning Software development
-- 💞️ I’m looking to collaborate on java projects or web apps
+- 👀 I’m interested in Java, TypeScript and React
+- 🌱 I’m currently learning Software development and Web Development
+- 💞️ I’m looking to collaborate on React projects or web apps
 - 📫 fragilgon@gmail.com
 
 <!---
