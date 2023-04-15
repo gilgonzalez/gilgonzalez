@@ -2,6 +2,7 @@
 - 👀 I’m interested in Java, TypeScript and React
 - 🌱 I’m currently learning Software development and Web Development
 - 💞️ I’m looking to collaborate on React projects or web apps
+- 🦖 Currently working in Blacknosaur
 - 📫 fragilgon@gmail.com
 
 <!---
