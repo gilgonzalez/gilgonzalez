@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Francisco Javier Gil González (@gilgonzalez)
 
-![Profile Banner](https://user-images.githubusercontent.com/your-banner-url/banner.png) <!-- Optional: Add a cool banner image if you have one -->
+![Profile Banner](image1)
 
 ## 🚀 About Me
 
