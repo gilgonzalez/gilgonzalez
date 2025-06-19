@@ -1,7 +1,5 @@
 # 👋 Hi there! I'm Francisco Javier Gil González (@gilgonzalez)
 
-![Profile Banner](image1)
-
 ## 🚀 About Me
 
 - 🦖 **Currently at:** Blacknosaur
